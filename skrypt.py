@@ -6,3 +6,4 @@ Created on Wed Apr 19 15:27:29 2023
 """
 
 # Skrypt do projektu_1 z Informatyki
+# Transformacja XYZ -> BLH
